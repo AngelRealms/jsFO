@@ -1,5 +1,7 @@
 # jsFO
 
+This is a fork of [https://github.com/ajxs/jsFO](ajxs' jsFO)
+
 View the online demo at: [http://ajxs.github.io/jsFO](http://ajxs.github.io/jsFO)
 
 jsFO is an open-source port of Interplay's Fallout2 for the browser, written in Javascript, with conversion of assets from the original Fallout2 handled in Python.
