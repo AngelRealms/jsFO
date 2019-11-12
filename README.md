@@ -1,6 +1,6 @@
 # jsFO
 
-This is a fork of [https://github.com/ajxs/jsFO](ajxs' jsFO)
+This is a fork of [jsFallout by ajxs](https://github.com/ajxs/jsFO)
 
 View the online demo at: [http://ajxs.github.io/jsFO](http://ajxs.github.io/jsFO)
 
