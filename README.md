@@ -12,10 +12,10 @@ One end goal is eventually to document the specifics regarding the conversion of
 
 All code for this project is released under the Apache 2.0 license, meaning that you - the end user - are free to do with the software more or less whatever you wish, but you probably won't get far selling it. You're free to deconstruct, reconstruct, repair, retouch, break and bend this software all you want. And I wish you the best of luck in doing so... you'll need it. Feel free to contribute in any way!
 
-##ES6-Standards
+## ES6-Standards
 jsFO uses babel-cli together with a GNU make build pipeline for aligning the ES6-compatible src with current web standards. The ES5-compatible branch has been fully deprecaed, and jsFO will now be using babel for transpilation during the build process.
 
-##Running jsFO
+## Running jsFO
 To run jsFO for yourself, simply download the source files to your computer and run index.html. If you encounter any issues with XSS security in Chrome, you can run chrome with the command line flag --disable-web-security, alternatively running in firefox, or through a simple http host will solve these issues.
 The source in this hub contains pre-packaged data files for several maps, which will allow you to test the engine's functionality. To convert and run additional maps in jsFO, you will need a copy of the original game's data files, being 'master.dat' and 'critter.dat' for conversion of the game's original assets.
 Scripts for asset conversion can be found in the 'src/loader' folder.
